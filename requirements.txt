@@ -3,3 +3,8 @@ pandas
 matplotlib
 seaborn
 numba
+tqdm
+scipy
+scikit-learn
+scikit-image
+jupyter
